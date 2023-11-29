@@ -1,0 +1,39 @@
+﻿  Camera.cpp
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\common.h(56,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\common.h(133,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\Camera.cpp(113,12): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\Camera.cpp(114,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\common.h(56,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\common.h(133,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\ObjShape.h(43,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Assets\LightObj.h(35,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(27,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(172,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(174,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(196,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(795,64): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(801,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(860,46): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(870,46): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(909,51): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(921,51): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\Main.cpp(1194,34): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  GraphicsEngine.vcxproj -> D:\Work\Graphics\BenjaminJukes12129991-5028-Graphics\GraphicsEngine\x64\Debug\GraphicsEngine.exe
